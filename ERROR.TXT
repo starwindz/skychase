@@ -1,239 +1,415 @@
 Microsoft (R) Macro Assembler Version 5.00 
 Copyright (C) Microsoft Corp 1981-1985, 1987.  All rights reserved.
 
-Object filename [egachase.OBJ]: Source listing  [NUL.LST]: Cross-reference [NUL.CRF]: egachase.asm(94): error A2070: Cannot use EVEN or ALIGN with byte alignment
-egachase.asm(342): error A2071: Forward needs override or FAR
-egachase.asm(355): error A2071: Forward needs override or FAR
-egachase.asm(363): error A2071: Forward needs override or FAR
-egachase.asm(384): error A2006: Phase error between passes
-egachase.asm(601): error A2071: Forward needs override or FAR
-egachase.asm(646): error A2070: Cannot use EVEN or ALIGN with byte alignment
-egachase.asm(844): error A2071: Forward needs override or FAR
-egachase.asm(846): error A2071: Forward needs override or FAR
-egachase.asm(847): error A2071: Forward needs override or FAR
-egachase.asm(865): error A2071: Forward needs override or FAR
-egachase.asm(883): error A2071: Forward needs override or FAR
-egachase.asm(885): error A2071: Forward needs override or FAR
-egachase.asm(1122): error A2071: Forward needs override or FAR
-egachase.asm(1162): error A2071: Forward needs override or FAR
-egachase.asm(1274): error A2065: Label cannot have segment override
-egachase.asm(1275): error A2065: Label cannot have segment override
-egachase.asm(1280): error A2065: Label cannot have segment override
-egachase.asm(1281): error A2065: Label cannot have segment override
-egachase.asm(1299): error A2071: Forward needs override or FAR
-egachase.asm(1397): error A2070: Cannot use EVEN or ALIGN with byte alignment
-egachase.asm(1439): error A2071: Forward needs override or FAR
-egachase.asm(1631): error A2071: Forward needs override or FAR
-egachase.asm(1669): error A2065: Label cannot have segment override
-egachase.asm(1670): error A2065: Label cannot have segment override
-egachase.asm(1785): error A2065: Label cannot have segment override
-egachase.asm(1879): error A2071: Forward needs override or FAR
-egachase.asm(1881): error A2071: Forward needs override or FAR
-egachase.asm(1896): error A2071: Forward needs override or FAR
-egachase.asm(1898): error A2071: Forward needs override or FAR
-egachase.asm(2007): error A2065: Label cannot have segment override
-egachase.asm(2104): error A2071: Forward needs override or FAR
-egachase.asm(2106): error A2071: Forward needs override or FAR
-egachase.asm(2121): error A2071: Forward needs override or FAR
-egachase.asm(2123): error A2071: Forward needs override or FAR
-egachase.asm(2546): error A2065: Label cannot have segment override
-egachase.asm(3178): error A2071: Forward needs override or FAR
-egachase.asm(3298): error A2071: Forward needs override or FAR
-egachase.asm(3396): error A2071: Forward needs override or FAR
-egachase.asm(4129): error A2070: Cannot use EVEN or ALIGN with byte alignment
-egachase.asm(4337): error A2070: Cannot use EVEN or ALIGN with byte alignment
-egachase.asm(4545): error A2070: Cannot use EVEN or ALIGN with byte alignment
-egachase.asm(4753): error A2070: Cannot use EVEN or ALIGN with byte alignment
-egachase.asm(4961): error A2070: Cannot use EVEN or ALIGN with byte alignment
-egachase.asm(5169): error A2070: Cannot use EVEN or ALIGN with byte alignment
-egachase.asm(5496): error A2070: Cannot use EVEN or ALIGN with byte alignment
-egachase.asm(5553): error A2070: Cannot use EVEN or ALIGN with byte alignment
-egachase.asm(5580): error A2070: Cannot use EVEN or ALIGN with byte alignment
-egachase.asm(5637): error A2070: Cannot use EVEN or ALIGN with byte alignment
-egachase.asm(5664): error A2070: Cannot use EVEN or ALIGN with byte alignment
-egachase.asm(5721): error A2070: Cannot use EVEN or ALIGN with byte alignment
-egachase.asm(5748): error A2070: Cannot use EVEN or ALIGN with byte alignment
-egachase.asm(5805): error A2070: Cannot use EVEN or ALIGN with byte alignment
-egachase.asm(5832): error A2070: Cannot use EVEN or ALIGN with byte alignment
-egachase.asm(5889): error A2070: Cannot use EVEN or ALIGN with byte alignment
-egachase.asm(5916): error A2070: Cannot use EVEN or ALIGN with byte alignment
-egachase.asm(5965): error A2071: Forward needs override or FAR
-egachase.asm(5971): error A2071: Forward needs override or FAR
-egachase.asm(7275): error A2070: Cannot use EVEN or ALIGN with byte alignment
-egachase.asm(7319): error A2070: Cannot use EVEN or ALIGN with byte alignment
-egachase.asm(7354): error A2070: Cannot use EVEN or ALIGN with byte alignment
-egachase.asm(7417): error A2070: Cannot use EVEN or ALIGN with byte alignment
-egachase.asm(7461): error A2070: Cannot use EVEN or ALIGN with byte alignment
-egachase.asm(7496): error A2070: Cannot use EVEN or ALIGN with byte alignment
-egachase.asm(7559): error A2070: Cannot use EVEN or ALIGN with byte alignment
-egachase.asm(7603): error A2070: Cannot use EVEN or ALIGN with byte alignment
-egachase.asm(7840): error A2070: Cannot use EVEN or ALIGN with byte alignment
-egachase.asm(7884): error A2070: Cannot use EVEN or ALIGN with byte alignment
-egachase.asm(7919): error A2070: Cannot use EVEN or ALIGN with byte alignment
-egachase.asm(7982): error A2070: Cannot use EVEN or ALIGN with byte alignment
-egachase.asm(8026): error A2070: Cannot use EVEN or ALIGN with byte alignment
-egachase.asm(8061): error A2070: Cannot use EVEN or ALIGN with byte alignment
-egachase.asm(8124): error A2070: Cannot use EVEN or ALIGN with byte alignment
-egachase.asm(8168): error A2070: Cannot use EVEN or ALIGN with byte alignment
-egachase.asm(8762): error A2071: Forward needs override or FAR
-egachase.asm(8763): error A2071: Forward needs override or FAR
-egachase.asm(8765): error A2071: Forward needs override or FAR
-egachase.asm(8766): error A2071: Forward needs override or FAR
-egachase.asm(8777): error A2071: Forward needs override or FAR
-egachase.asm(8778): error A2071: Forward needs override or FAR
-egachase.asm(8848): error A2071: Forward needs override or FAR
-egachase.asm(8853): error A2071: Forward needs override or FAR
-egachase.asm(8860): error A2071: Forward needs override or FAR
-egachase.asm(9189): error A2071: Forward needs override or FAR
-egachase.asm(9215): error A2071: Forward needs override or FAR
-egachase.asm(9527): error A2071: Forward needs override or FAR
-egachase.asm(9538): error A2071: Forward needs override or FAR
-egachase.asm(9563): error A2071: Forward needs override or FAR
-egachase.asm(9568): error A2071: Forward needs override or FAR
-egachase.asm(9580): error A2071: Forward needs override or FAR
-egachase.asm(9582): error A2071: Forward needs override or FAR
-egachase.asm(9585): error A2071: Forward needs override or FAR
-egachase.asm(9587): error A2071: Forward needs override or FAR
-egachase.asm(9598): error A2071: Forward needs override or FAR
-egachase.asm(9620): error A2071: Forward needs override or FAR
-egachase.asm(9625): error A2071: Forward needs override or FAR
-egachase.asm(9649): error A2071: Forward needs override or FAR
-egachase.asm(9654): error A2071: Forward needs override or FAR
-egachase.asm(9670): error A2071: Forward needs override or FAR
-egachase.asm(9693): error A2071: Forward needs override or FAR
-egachase.asm(9696): error A2071: Forward needs override or FAR
-egachase.asm(9719): error A2071: Forward needs override or FAR
-egachase.asm(9722): error A2071: Forward needs override or FAR
-egachase.asm(9727): error A2070: Cannot use EVEN or ALIGN with byte alignment
-egachase.asm(9936): error A2070: Cannot use EVEN or ALIGN with byte alignment
-egachase.asm(10712): error A2070: Cannot use EVEN or ALIGN with byte alignment
-egachase.asm(11071): error A2070: Cannot use EVEN or ALIGN with byte alignment
-egachase.asm(11375): error A2070: Cannot use EVEN or ALIGN with byte alignment
-egachase.asm(12930): error A2064: Near JMP/CALL to different CS
-egachase.asm(13033): error A2064: Near JMP/CALL to different CS
-egachase.asm(13126): error A2064: Near JMP/CALL to different CS
-egachase.asm(18349): error A2070: Cannot use EVEN or ALIGN with byte alignment
-egachase.asm(18826): error A2070: Cannot use EVEN or ALIGN with byte alignment
-egachase.asm(18854): error A2070: Cannot use EVEN or ALIGN with byte alignment
-egachase.asm(18935): error A2070: Cannot use EVEN or ALIGN with byte alignment
-egachase.asm(18971): error A2070: Cannot use EVEN or ALIGN with byte alignment
-egachase.asm(18994): error A2070: Cannot use EVEN or ALIGN with byte alignment
-egachase.asm(19067): error A2070: Cannot use EVEN or ALIGN with byte alignment
-egachase.asm(19125): error A2070: Cannot use EVEN or ALIGN with byte alignment
-egachase.asm(19161): error A2070: Cannot use EVEN or ALIGN with byte alignment
-egachase.asm(19184): error A2070: Cannot use EVEN or ALIGN with byte alignment
-egachase.asm(19234): error A2070: Cannot use EVEN or ALIGN with byte alignment
-egachase.asm(19258): error A2070: Cannot use EVEN or ALIGN with byte alignment
-egachase.asm(19316): error A2070: Cannot use EVEN or ALIGN with byte alignment
-egachase.asm(19352): error A2070: Cannot use EVEN or ALIGN with byte alignment
-egachase.asm(19375): error A2070: Cannot use EVEN or ALIGN with byte alignment
-egachase.asm(19448): error A2070: Cannot use EVEN or ALIGN with byte alignment
-egachase.asm(19484): error A2070: Cannot use EVEN or ALIGN with byte alignment
-egachase.asm(19507): error A2070: Cannot use EVEN or ALIGN with byte alignment
-egachase.asm(19543): error A2070: Cannot use EVEN or ALIGN with byte alignment
-egachase.asm(19566): error A2070: Cannot use EVEN or ALIGN with byte alignment
-egachase.asm(19674): error A2070: Cannot use EVEN or ALIGN with byte alignment
-egachase.asm(19697): error A2070: Cannot use EVEN or ALIGN with byte alignment
-egachase.asm(19733): error A2070: Cannot use EVEN or ALIGN with byte alignment
-egachase.asm(19756): error A2070: Cannot use EVEN or ALIGN with byte alignment
-egachase.asm(19864): error A2070: Cannot use EVEN or ALIGN with byte alignment
-egachase.asm(19887): error A2070: Cannot use EVEN or ALIGN with byte alignment
-egachase.asm(19923): error A2070: Cannot use EVEN or ALIGN with byte alignment
-egachase.asm(19946): error A2070: Cannot use EVEN or ALIGN with byte alignment
-egachase.asm(20019): error A2070: Cannot use EVEN or ALIGN with byte alignment
-egachase.asm(20055): error A2070: Cannot use EVEN or ALIGN with byte alignment
-egachase.asm(20078): error A2070: Cannot use EVEN or ALIGN with byte alignment
-egachase.asm(20114): error A2070: Cannot use EVEN or ALIGN with byte alignment
-egachase.asm(20137): error A2070: Cannot use EVEN or ALIGN with byte alignment
-egachase.asm(20245): error A2070: Cannot use EVEN or ALIGN with byte alignment
-egachase.asm(20268): error A2070: Cannot use EVEN or ALIGN with byte alignment
-egachase.asm(20304): error A2070: Cannot use EVEN or ALIGN with byte alignment
-egachase.asm(20327): error A2070: Cannot use EVEN or ALIGN with byte alignment
-egachase.asm(20435): error A2070: Cannot use EVEN or ALIGN with byte alignment
-egachase.asm(20458): error A2070: Cannot use EVEN or ALIGN with byte alignment
-egachase.asm(20494): error A2070: Cannot use EVEN or ALIGN with byte alignment
-egachase.asm(20517): error A2070: Cannot use EVEN or ALIGN with byte alignment
-egachase.asm(20557): error A2070: Cannot use EVEN or ALIGN with byte alignment
-egachase.asm(21133): error A2070: Cannot use EVEN or ALIGN with byte alignment
-egachase.asm(21292): error A2070: Cannot use EVEN or ALIGN with byte alignment
-egachase.asm(21301): error A2070: Cannot use EVEN or ALIGN with byte alignment
-egachase.asm(21387): error A2071: Forward needs override or FAR
-egachase.asm(21651): error A2038: Left operand must have segment
-egachase.asm(21734): error A2038: Left operand must have segment
-egachase.asm(21781): error A2070: Cannot use EVEN or ALIGN with byte alignment
-egachase.asm(21813): error A2071: Forward needs override or FAR
-egachase.asm(21853): error A2071: Forward needs override or FAR
-egachase.asm(22366): error A2070: Cannot use EVEN or ALIGN with byte alignment
-egachase.asm(22494): error A2071: Forward needs override or FAR
-egachase.asm(22836): error A2070: Cannot use EVEN or ALIGN with byte alignment
-egachase.asm(23206): error A2070: Cannot use EVEN or ALIGN with byte alignment
-egachase.asm(23365): error A2070: Cannot use EVEN or ALIGN with byte alignment
-egachase.asm(23460): error A2070: Cannot use EVEN or ALIGN with byte alignment
-egachase.asm(23647): error A2070: Cannot use EVEN or ALIGN with byte alignment
-egachase.asm(23723): error A2070: Cannot use EVEN or ALIGN with byte alignment
-egachase.asm(23860): error A2070: Cannot use EVEN or ALIGN with byte alignment
-egachase.asm(26552): error A2070: Cannot use EVEN or ALIGN with byte alignment
-egachase.asm(27200): error A2070: Cannot use EVEN or ALIGN with byte alignment
-egachase.asm(27579): error A2006: Phase error between passes
-egachase.asm(27644): error A2006: Phase error between passes
-egachase.asm(27710): error A2006: Phase error between passes
-egachase.asm(27834): error A2006: Phase error between passes
-egachase.asm(27899): error A2006: Phase error between passes
-egachase.asm(27965): error A2006: Phase error between passes
-egachase.asm(29217): error A2070: Cannot use EVEN or ALIGN with byte alignment
-egachase.asm(29356): error A2070: Cannot use EVEN or ALIGN with byte alignment
-egachase.asm(-32300): error A2070: Cannot use EVEN or ALIGN with byte alignment
-egachase.asm(-30204): error A2070: Cannot use EVEN or ALIGN with byte alignment
-egachase.asm(-30184): error A2070: Cannot use EVEN or ALIGN with byte alignment
-egachase.asm(-30060): error A2070: Cannot use EVEN or ALIGN with byte alignment
-egachase.asm(-30040): error A2070: Cannot use EVEN or ALIGN with byte alignment
-egachase.asm(-29916): error A2070: Cannot use EVEN or ALIGN with byte alignment
-egachase.asm(-29896): error A2070: Cannot use EVEN or ALIGN with byte alignment
-egachase.asm(-29750): error A2070: Cannot use EVEN or ALIGN with byte alignment
-egachase.asm(-29626): error A2070: Cannot use EVEN or ALIGN with byte alignment
-egachase.asm(-29606): error A2070: Cannot use EVEN or ALIGN with byte alignment
-egachase.asm(-29482): error A2070: Cannot use EVEN or ALIGN with byte alignment
-egachase.asm(-29462): error A2070: Cannot use EVEN or ALIGN with byte alignment
-egachase.asm(-29332): error A2070: Cannot use EVEN or ALIGN with byte alignment
-egachase.asm(-27996): error A2070: Cannot use EVEN or ALIGN with byte alignment
-egachase.asm(-27924): error A2070: Cannot use EVEN or ALIGN with byte alignment
-egachase.asm(-27695): error A2070: Cannot use EVEN or ALIGN with byte alignment
-egachase.asm(-27672): error A2071: Forward needs override or FAR
-egachase.asm(-27670): error A2071: Forward needs override or FAR
-egachase.asm(-27666): error A2038: Left operand must have segment
-egachase.asm(-27584): error A2071: Forward needs override or FAR
-egachase.asm(-27581): error A2071: Forward needs override or FAR
-egachase.asm(-27578): error A2071: Forward needs override or FAR
-egachase.asm(-27575): error A2071: Forward needs override or FAR
-egachase.asm(-27127): error A2070: Cannot use EVEN or ALIGN with byte alignment
-egachase.asm(-22322): error A2071: Forward needs override or FAR
-egachase.asm(-22131): error A2071: Forward needs override or FAR
-egachase.asm(-22119): error A2071: Forward needs override or FAR
-egachase.asm(-22110): error A2071: Forward needs override or FAR
-egachase.asm(-20543): error A2070: Cannot use EVEN or ALIGN with byte alignment
-egachase.asm(-20145): error A2070: Cannot use EVEN or ALIGN with byte alignment
-egachase.asm(-20124): error A2065: Label cannot have segment override
-egachase.asm(-20120): error A2105: Expected: instruction or directive
-egachase.asm(-18662): error A2071: Forward needs override or FAR
-egachase.asm(-18533): error A2070: Cannot use EVEN or ALIGN with byte alignment
-egachase.asm(-18458): error A2065: Label cannot have segment override
-egachase.asm(-18328): error A2070: Cannot use EVEN or ALIGN with byte alignment
-egachase.asm(-18239): error A2070: Cannot use EVEN or ALIGN with byte alignment
-egachase.asm(-16835): error A2070: Cannot use EVEN or ALIGN with byte alignment
-egachase.asm(-13256): error A2070: Cannot use EVEN or ALIGN with byte alignment
-egachase.asm(-11157): error A2070: Cannot use EVEN or ALIGN with byte alignment
-egachase.asm(-11078): error A2070: Cannot use EVEN or ALIGN with byte alignment
-egachase.asm(-11061): error A2070: Cannot use EVEN or ALIGN with byte alignment
-egachase.asm(-11056): error A2070: Cannot use EVEN or ALIGN with byte alignment
-egachase.asm(-11012): error A2070: Cannot use EVEN or ALIGN with byte alignment
-egachase.asm(-8490): error A2070: Cannot use EVEN or ALIGN with byte alignment
-egachase.asm(-8205): error A2064: Near JMP/CALL to different CS
-egachase.asm(-8190): error A2064: Near JMP/CALL to different CS
-egachase.asm(-7589): error A2070: Cannot use EVEN or ALIGN with byte alignment
-egachase.asm(2299): error A2070: Cannot use EVEN or ALIGN with byte alignment
-egachase.asm(-10469): error A2024: Segment parameters are changed
+Object filename [egachase.OBJ]: Source listing  [NUL.LST]: Cross-reference [NUL.CRF]: egachase.asm(91): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(333): error A2071: Forward needs override or FAR
+egachase.asm(346): error A2071: Forward needs override or FAR
+egachase.asm(353): error A2071: Forward needs override or FAR
+egachase.asm(373): error A2006: Phase error between passes
+egachase.asm(577): error A2071: Forward needs override or FAR
+egachase.asm(621): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(816): error A2071: Forward needs override or FAR
+egachase.asm(818): error A2071: Forward needs override or FAR
+egachase.asm(819): error A2071: Forward needs override or FAR
+egachase.asm(837): error A2071: Forward needs override or FAR
+egachase.asm(855): error A2071: Forward needs override or FAR
+egachase.asm(857): error A2071: Forward needs override or FAR
+egachase.asm(1107): error A2071: Forward needs override or FAR
+egachase.asm(1147): error A2071: Forward needs override or FAR
+egachase.asm(1253): error A2065: Label cannot have segment override
+egachase.asm(1254): error A2065: Label cannot have segment override
+egachase.asm(1258): error A2065: Label cannot have segment override
+egachase.asm(1259): error A2065: Label cannot have segment override
+egachase.asm(1275): error A2071: Forward needs override or FAR
+egachase.asm(1365): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(1405): error A2071: Forward needs override or FAR
+egachase.asm(1589): error A2071: Forward needs override or FAR
+egachase.asm(1625): error A2065: Label cannot have segment override
+egachase.asm(1626): error A2065: Label cannot have segment override
+egachase.asm(1735): error A2065: Label cannot have segment override
+egachase.asm(1820): error A2071: Forward needs override or FAR
+egachase.asm(1822): error A2071: Forward needs override or FAR
+egachase.asm(1837): error A2071: Forward needs override or FAR
+egachase.asm(1839): error A2071: Forward needs override or FAR
+egachase.asm(1944): error A2065: Label cannot have segment override
+egachase.asm(2032): error A2071: Forward needs override or FAR
+egachase.asm(2034): error A2071: Forward needs override or FAR
+egachase.asm(2049): error A2071: Forward needs override or FAR
+egachase.asm(2051): error A2071: Forward needs override or FAR
+egachase.asm(2450): error A2065: Label cannot have segment override
+egachase.asm(3073): error A2071: Forward needs override or FAR
+egachase.asm(3188): error A2071: Forward needs override or FAR
+egachase.asm(3278): error A2071: Forward needs override or FAR
+egachase.asm(3986): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(4188): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(4390): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(4592): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(4794): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(4996): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(5317): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(5372): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(5398): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(5453): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(5479): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(5534): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(5560): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(5615): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(5641): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(5696): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(5722): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(5770): error A2071: Forward needs override or FAR
+egachase.asm(5776): error A2071: Forward needs override or FAR
+egachase.asm(7039): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(7081): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(7115): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(7175): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(7217): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(7251): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(7311): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(7353): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(7572): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(7614): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(7648): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(7708): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(7750): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(7784): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(7844): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(7886): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(8425): error A2009: Symbol not defined: BYTE_15340
+egachase.asm(8428): error A2009: Symbol not defined: BYTE_15340
+egachase.asm(8441): error A2071: Forward needs override or FAR
+egachase.asm(8442): error A2071: Forward needs override or FAR
+egachase.asm(8444): error A2071: Forward needs override or FAR
+egachase.asm(8445): error A2071: Forward needs override or FAR
+egachase.asm(8456): error A2071: Forward needs override or FAR
+egachase.asm(8457): error A2071: Forward needs override or FAR
+egachase.asm(8525): error A2071: Forward needs override or FAR
+egachase.asm(8530): error A2071: Forward needs override or FAR
+egachase.asm(8537): error A2071: Forward needs override or FAR
+egachase.asm(8830): error A2009: Symbol not defined: LOC_14FEE
+egachase.asm(8831): error A2009: Symbol not defined: LOC_14FF6
+egachase.asm(8832): error A2009: Symbol not defined: LOC_14FF2
+egachase.asm(8833): error A2009: Symbol not defined: LOC_14FFB
+egachase.asm(8839): error A2009: Symbol not defined: LOC_14B94
+egachase.asm(8840): error A2009: Symbol not defined: LOC_14B9C
+egachase.asm(8841): error A2009: Symbol not defined: LOC_14B98
+egachase.asm(8842): error A2009: Symbol not defined: LOC_14BA1
+egachase.asm(8861): error A2071: Forward needs override or FAR
+egachase.asm(8884): error A2071: Forward needs override or FAR
+egachase.asm(9180): error A2071: Forward needs override or FAR
+egachase.asm(9190): error A2071: Forward needs override or FAR
+egachase.asm(9214): error A2071: Forward needs override or FAR
+egachase.asm(9219): error A2071: Forward needs override or FAR
+egachase.asm(9229): error A2071: Forward needs override or FAR
+egachase.asm(9231): error A2071: Forward needs override or FAR
+egachase.asm(9234): error A2071: Forward needs override or FAR
+egachase.asm(9236): error A2071: Forward needs override or FAR
+egachase.asm(9246): error A2071: Forward needs override or FAR
+egachase.asm(9265): error A2071: Forward needs override or FAR
+egachase.asm(9270): error A2071: Forward needs override or FAR
+egachase.asm(9291): error A2071: Forward needs override or FAR
+egachase.asm(9296): error A2071: Forward needs override or FAR
+egachase.asm(9310): error A2071: Forward needs override or FAR
+egachase.asm(9331): error A2071: Forward needs override or FAR
+egachase.asm(9334): error A2071: Forward needs override or FAR
+egachase.asm(9355): error A2071: Forward needs override or FAR
+egachase.asm(9358): error A2071: Forward needs override or FAR
+egachase.asm(9362): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(9564): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(10265): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(10604): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(10893): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(12449): error A2009: Symbol not defined: BYTE_16FCA
+egachase.asm(12536): error A2009: Symbol not defined: BYTE_170CE
+egachase.asm(12623): error A2009: Symbol not defined: BYTE_171EC
+egachase.asm(17539): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(17686): error A2009: Symbol not defined: LOC_19528
+egachase.asm(17729): error A2009: Symbol not defined: LOC_19528
+egachase.asm(17789): error A2009: Symbol not defined: LOC_19528
+egachase.asm(17831): error A2009: Symbol not defined: LOC_19528
+egachase.asm(17833): error A2009: Symbol not defined: LOC_195D2
+egachase.asm(17834): error A2009: Symbol not defined: LOC_195DC
+egachase.asm(17853): error A2009: Symbol not defined: LOC_195A4
+egachase.asm(17881): error A2009: Symbol not defined: LOC_19528
+egachase.asm(17883): error A2009: Symbol not defined: LOC_1958D
+egachase.asm(17884): error A2009: Symbol not defined: LOC_19597
+egachase.asm(17903): error A2009: Symbol not defined: LOC_1955F
+egachase.asm(17959): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(17984): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(18062): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(18097): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(18119): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(18188): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(18244): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(18279): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(18301): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(18348): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(18371): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(18427): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(18462): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(18484): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(18553): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(18588): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(18610): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(18645): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(18667): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(18770): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(18792): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(18827): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(18849): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(18952): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(18974): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(19009): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(19031): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(19100): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(19135): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(19157): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(19192): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(19214): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(19317): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(19339): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(19374): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(19396): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(19499): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(19521): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(19556): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(19578): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(19615): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(20240): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(20455): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(20460): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(20542): error A2071: Forward needs override or FAR
+egachase.asm(20791): error A2038: Left operand must have segment
+egachase.asm(20871): error A2038: Left operand must have segment
+egachase.asm(20916): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(20943): error A2071: Forward needs override or FAR
+egachase.asm(20979): error A2071: Forward needs override or FAR
+egachase.asm(21437): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(21554): error A2071: Forward needs override or FAR
+egachase.asm(21862): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(22196): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(22340): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(22422): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(22591): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(22666): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(22798): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(25376): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(26019): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(26386): error A2006: Phase error between passes
+egachase.asm(26449): error A2006: Phase error between passes
+egachase.asm(26513): error A2006: Phase error between passes
+egachase.asm(26633): error A2006: Phase error between passes
+egachase.asm(26696): error A2006: Phase error between passes
+egachase.asm(26760): error A2006: Phase error between passes
+egachase.asm(28039): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(28163): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(31900): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(-31581): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(-31562): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(-31443): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(-31424): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(-31305): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(-31286): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(-31147): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(-31028): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(-31009): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(-30890): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(-30871): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(-30761): error A2009: Symbol not defined: LOC_2A06D
+egachase.asm(-30753): error A2009: Symbol not defined: LOC_2A95D
+egachase.asm(-30749): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(-29476): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(-29406): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(-29186): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(-29165): error A2071: Forward needs override or FAR
+egachase.asm(-29163): error A2071: Forward needs override or FAR
+egachase.asm(-29159): error A2038: Left operand must have segment
+egachase.asm(-29078): error A2071: Forward needs override or FAR
+egachase.asm(-29075): error A2071: Forward needs override or FAR
+egachase.asm(-29072): error A2071: Forward needs override or FAR
+egachase.asm(-29069): error A2071: Forward needs override or FAR
+egachase.asm(-28637): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(-28456): error A2009: Symbol not defined: LOC_2CB12
+egachase.asm(-28451): error A2009: Symbol not defined: LOC_2CB12
+egachase.asm(-28403): error A2009: Symbol not defined: LOC_2CB8F
+egachase.asm(-28398): error A2009: Symbol not defined: LOC_2CB8F
+egachase.asm(-28306): error A2009: Symbol not defined: LOC_2CC7D
+egachase.asm(-28301): error A2009: Symbol not defined: LOC_2CC7D
+egachase.asm(-28243): error A2009: Symbol not defined: LOC_2CD0A
+egachase.asm(-28238): error A2009: Symbol not defined: LOC_2CD0A
+egachase.asm(-28211): error A2009: Symbol not defined: LOC_2CD4B
+egachase.asm(-28191): error A2009: Symbol not defined: LOC_2CD4B
+egachase.asm(-28128): error A2009: Symbol not defined: LOC_2CE0D
+egachase.asm(-28123): error A2009: Symbol not defined: LOC_2CE0D
+egachase.asm(-27918): error A2009: Symbol not defined: LOC_2D002
+egachase.asm(-27913): error A2009: Symbol not defined: LOC_2D002
+egachase.asm(-27796): error A2009: Symbol not defined: LOC_2D121
+egachase.asm(-27791): error A2009: Symbol not defined: LOC_2D121
+egachase.asm(-27725): error A2009: Symbol not defined: LOC_2D1C2
+egachase.asm(-27699): error A2009: Symbol not defined: LOC_2D1C2
+egachase.asm(-27644): error A2009: Symbol not defined: LOC_2D278
+egachase.asm(-27639): error A2009: Symbol not defined: LOC_2D278
+egachase.asm(-27511): error A2009: Symbol not defined: LOC_2D3B4
+egachase.asm(-27506): error A2009: Symbol not defined: LOC_2D3B4
+egachase.asm(-27439): error A2009: Symbol not defined: LOC_2D45C
+egachase.asm(-27434): error A2009: Symbol not defined: LOC_2D45C
+egachase.asm(-27376): error A2009: Symbol not defined: LOC_2D4E7
+egachase.asm(-27371): error A2009: Symbol not defined: LOC_2D4E7
+egachase.asm(-27223): error A2009: Symbol not defined: LOC_2D65C
+egachase.asm(-27218): error A2009: Symbol not defined: LOC_2D65C
+egachase.asm(-27012): error A2009: Symbol not defined: LOC_2D84F
+egachase.asm(-27007): error A2009: Symbol not defined: LOC_2D84F
+egachase.asm(-26890): error A2009: Symbol not defined: LOC_2D96E
+egachase.asm(-26885): error A2009: Symbol not defined: LOC_2D96E
+egachase.asm(-26848): error A2009: Symbol not defined: LOC_2D9D0
+egachase.asm(-26822): error A2009: Symbol not defined: LOC_2D9D0
+egachase.asm(-26767): error A2009: Symbol not defined: LOC_2DA86
+egachase.asm(-26762): error A2009: Symbol not defined: LOC_2DA86
+egachase.asm(-26587): error A2009: Symbol not defined: LOC_2DC38
+egachase.asm(-26582): error A2009: Symbol not defined: LOC_2DC38
+egachase.asm(-26465): error A2009: Symbol not defined: LOC_2DD57
+egachase.asm(-26460): error A2009: Symbol not defined: LOC_2DD57
+egachase.asm(-26423): error A2009: Symbol not defined: LOC_2DDB9
+egachase.asm(-26397): error A2009: Symbol not defined: LOC_2DDB9
+egachase.asm(-26342): error A2009: Symbol not defined: LOC_2DE6F
+egachase.asm(-26337): error A2009: Symbol not defined: LOC_2DE6F
+egachase.asm(-24620): error A2071: Forward needs override or FAR
+egachase.asm(-24509): error A2009: Symbol not defined: LOC_2CA98
+egachase.asm(-24504): error A2009: Symbol not defined: LOC_2CA98
+egachase.asm(-24495): error A2009: Symbol not defined: LOC_2CB12
+egachase.asm(-24476): error A2009: Symbol not defined: LOC_2CB8F
+egachase.asm(-24472): error A2009: Symbol not defined: LOC_2CB72
+egachase.asm(-24467): error A2009: Symbol not defined: LOC_2CB72
+egachase.asm(-24454): error A2009: Symbol not defined: LOC_2CBCD
+egachase.asm(-24453): error A2009: Symbol not defined: LOC_2CBE1
+egachase.asm(-24449): error A2009: Symbol not defined: LOC_2CBCD
+egachase.asm(-24448): error A2009: Symbol not defined: LOC_2CBE1
+egachase.asm(-24444): error A2071: Forward needs override or FAR
+egachase.asm(-24434): error A2071: Forward needs override or FAR
+egachase.asm(-24427): error A2071: Forward needs override or FAR
+egachase.asm(-24422): error A2009: Symbol not defined: LOC_2CC7D
+egachase.asm(-24418): error A2009: Symbol not defined: LOC_2CC55
+egachase.asm(-24417): error A2009: Symbol not defined: LOC_2CC69
+egachase.asm(-24413): error A2009: Symbol not defined: LOC_2CC55
+egachase.asm(-24412): error A2009: Symbol not defined: LOC_2CC69
+egachase.asm(-24402): error A2009: Symbol not defined: LOC_2CD0A
+egachase.asm(-24398): error A2009: Symbol not defined: LOC_2CCED
+egachase.asm(-24393): error A2009: Symbol not defined: LOC_2CCED
+egachase.asm(-24384): error A2009: Symbol not defined: LOC_2CD4B
+egachase.asm(-24373): error A2009: Symbol not defined: LOC_2CE0D
+egachase.asm(-24369): error A2009: Symbol not defined: LOC_2CDEF
+egachase.asm(-24364): error A2009: Symbol not defined: LOC_2CDEF
+egachase.asm(-24323): error A2009: Symbol not defined: LOC_2CE6B
+egachase.asm(-24322): error A2009: Symbol not defined: LOC_2CE7F
+egachase.asm(-24318): error A2009: Symbol not defined: LOC_2CE6B
+egachase.asm(-24317): error A2009: Symbol not defined: LOC_2CE7F
+egachase.asm(-24305): error A2009: Symbol not defined: LOC_2CEB1
+egachase.asm(-24304): error A2009: Symbol not defined: LOC_2CEC5
+egachase.asm(-24300): error A2009: Symbol not defined: LOC_2CEB1
+egachase.asm(-24299): error A2009: Symbol not defined: LOC_2CEC5
+egachase.asm(-24246): error A2009: Symbol not defined: LOC_2CF73
+egachase.asm(-24245): error A2009: Symbol not defined: LOC_2CF87
+egachase.asm(-24241): error A2009: Symbol not defined: LOC_2CF73
+egachase.asm(-24240): error A2009: Symbol not defined: LOC_2CF87
+egachase.asm(-24230): error A2009: Symbol not defined: LOC_2D002
+egachase.asm(-24226): error A2009: Symbol not defined: LOC_2CFE5
+egachase.asm(-24221): error A2009: Symbol not defined: LOC_2CFE5
+egachase.asm(-24178): error A2009: Symbol not defined: LOC_2D066
+egachase.asm(-24177): error A2009: Symbol not defined: LOC_2D07A
+egachase.asm(-24173): error A2009: Symbol not defined: LOC_2D066
+egachase.asm(-24172): error A2009: Symbol not defined: LOC_2D07A
+egachase.asm(-24158): error A2009: Symbol not defined: LOC_2D121
+egachase.asm(-24154): error A2009: Symbol not defined: LOC_2D104
+egachase.asm(-24149): error A2009: Symbol not defined: LOC_2D104
+egachase.asm(-24102): error A2009: Symbol not defined: LOC_2D1C2
+egachase.asm(-24095): error A2009: Symbol not defined: LOC_2D278
+egachase.asm(-23978): error A2009: Symbol not defined: LOC_2D3B4
+egachase.asm(-23974): error A2009: Symbol not defined: LOC_2D397
+egachase.asm(-23969): error A2009: Symbol not defined: LOC_2D397
+egachase.asm(-23926): error A2009: Symbol not defined: LOC_2D45C
+egachase.asm(-23906): error A2009: Symbol not defined: LOC_2D4E7
+egachase.asm(-23902): error A2009: Symbol not defined: LOC_2D4CA
+egachase.asm(-23897): error A2009: Symbol not defined: LOC_2D4CA
+egachase.asm(-23821): error A2009: Symbol not defined: LOC_2D65C
+egachase.asm(-23733): error A2009: Symbol not defined: LOC_2D6FE
+egachase.asm(-23732): error A2009: Symbol not defined: LOC_2D712
+egachase.asm(-23728): error A2009: Symbol not defined: LOC_2D6FE
+egachase.asm(-23727): error A2009: Symbol not defined: LOC_2D712
+egachase.asm(-23674): error A2009: Symbol not defined: LOC_2D7C0
+egachase.asm(-23673): error A2009: Symbol not defined: LOC_2D7D4
+egachase.asm(-23669): error A2009: Symbol not defined: LOC_2D7C0
+egachase.asm(-23668): error A2009: Symbol not defined: LOC_2D7D4
+egachase.asm(-23658): error A2009: Symbol not defined: LOC_2D84F
+egachase.asm(-23654): error A2009: Symbol not defined: LOC_2D832
+egachase.asm(-23649): error A2009: Symbol not defined: LOC_2D832
+egachase.asm(-23606): error A2009: Symbol not defined: LOC_2D8B3
+egachase.asm(-23605): error A2009: Symbol not defined: LOC_2D8C7
+egachase.asm(-23601): error A2009: Symbol not defined: LOC_2D8B3
+egachase.asm(-23600): error A2009: Symbol not defined: LOC_2D8C7
+egachase.asm(-23586): error A2009: Symbol not defined: LOC_2D96E
+egachase.asm(-23582): error A2009: Symbol not defined: LOC_2D951
+egachase.asm(-23577): error A2009: Symbol not defined: LOC_2D951
+egachase.asm(-23535): error A2009: Symbol not defined: LOC_2D9D0
+egachase.asm(-23528): error A2009: Symbol not defined: LOC_2DA86
+egachase.asm(-23376): error A2009: Symbol not defined: LOC_2DBA9
+egachase.asm(-23375): error A2009: Symbol not defined: LOC_2DBBD
+egachase.asm(-23371): error A2009: Symbol not defined: LOC_2DBA9
+egachase.asm(-23370): error A2009: Symbol not defined: LOC_2DBBD
+egachase.asm(-23360): error A2009: Symbol not defined: LOC_2DC38
+egachase.asm(-23356): error A2009: Symbol not defined: LOC_2DC1B
+egachase.asm(-23351): error A2009: Symbol not defined: LOC_2DC1B
+egachase.asm(-23308): error A2009: Symbol not defined: LOC_2DC9C
+egachase.asm(-23307): error A2009: Symbol not defined: LOC_2DCB0
+egachase.asm(-23303): error A2009: Symbol not defined: LOC_2DC9C
+egachase.asm(-23302): error A2009: Symbol not defined: LOC_2DCB0
+egachase.asm(-23288): error A2009: Symbol not defined: LOC_2DD57
+egachase.asm(-23284): error A2009: Symbol not defined: LOC_2DD3A
+egachase.asm(-23279): error A2009: Symbol not defined: LOC_2DD3A
+egachase.asm(-23237): error A2009: Symbol not defined: LOC_2DDB9
+egachase.asm(-23230): error A2009: Symbol not defined: LOC_2DE6F
+egachase.asm(-23093): error A2009: Symbol not defined: LOC_2DF99
+egachase.asm(-23089): error A2009: Symbol not defined: LOC_2DF99
+egachase.asm(-23083): error A2009: Symbol not defined: LOC_2DFBC
+egachase.asm(-23082): error A2009: Symbol not defined: LOC_2DFAA
+egachase.asm(-23078): error A2009: Symbol not defined: LOC_2DFBC
+egachase.asm(-23077): error A2009: Symbol not defined: LOC_2DFAA
+egachase.asm(-23015): error A2009: Symbol not defined: LOC_2DF5B
+egachase.asm(-23013): error A2009: Symbol not defined: LOC_2EBC1
+egachase.asm(-23012): error A2009: Symbol not defined: LOC_2EBDD
+egachase.asm(-23008): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(-22673): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(-22655): error A2065: Label cannot have segment override
+egachase.asm(-22652): error A2105: Expected: instruction or directive
+egachase.asm(-21351): error A2071: Forward needs override or FAR
+egachase.asm(-21317): error A2009: Symbol not defined: LOC_2FE2C
+egachase.asm(-21313): error A2009: Symbol not defined: LOC_2FE2C
+egachase.asm(-21307): error A2009: Symbol not defined: LOC_2FE4F
+egachase.asm(-21306): error A2009: Symbol not defined: LOC_2FE3D
+egachase.asm(-21302): error A2009: Symbol not defined: LOC_2FE4F
+egachase.asm(-21301): error A2009: Symbol not defined: LOC_2FE3D
+egachase.asm(-21239): error A2009: Symbol not defined: LOC_2FDEE
+egachase.asm(-21237): error A2009: Symbol not defined: LOC_30A8B
+egachase.asm(-21236): error A2009: Symbol not defined: LOC_30AA7
+egachase.asm(-21232): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(-21160): error A2065: Label cannot have segment override
+egachase.asm(-21034): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(-20928): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(-19525): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(-15946): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(-13847): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(-13768): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(-13751): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(-13746): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(-13702): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(-11193): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(-10930): error A2009: Symbol not defined: BYTE_33E9A
+egachase.asm(-10921): error A2009: Symbol not defined: BYTE_33E9A
+egachase.asm(-10907): error A2009: Symbol not defined: BYTE_33E9A
+egachase.asm(-10152): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(-272): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(-13045): error A2024: Segment parameters are changed
 
   51412 + 229564 Bytes symbol space free
 
       0 Warning Errors
-    231 Severe  Errors
+    407 Severe  Errors
