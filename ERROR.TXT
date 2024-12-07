@@ -1,0 +1,239 @@
+Microsoft (R) Macro Assembler Version 5.00 
+Copyright (C) Microsoft Corp 1981-1985, 1987.  All rights reserved.
+
+Object filename [egachase.OBJ]: Source listing  [NUL.LST]: Cross-reference [NUL.CRF]: egachase.asm(94): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(342): error A2071: Forward needs override or FAR
+egachase.asm(355): error A2071: Forward needs override or FAR
+egachase.asm(363): error A2071: Forward needs override or FAR
+egachase.asm(384): error A2006: Phase error between passes
+egachase.asm(601): error A2071: Forward needs override or FAR
+egachase.asm(646): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(844): error A2071: Forward needs override or FAR
+egachase.asm(846): error A2071: Forward needs override or FAR
+egachase.asm(847): error A2071: Forward needs override or FAR
+egachase.asm(865): error A2071: Forward needs override or FAR
+egachase.asm(883): error A2071: Forward needs override or FAR
+egachase.asm(885): error A2071: Forward needs override or FAR
+egachase.asm(1122): error A2071: Forward needs override or FAR
+egachase.asm(1162): error A2071: Forward needs override or FAR
+egachase.asm(1274): error A2065: Label cannot have segment override
+egachase.asm(1275): error A2065: Label cannot have segment override
+egachase.asm(1280): error A2065: Label cannot have segment override
+egachase.asm(1281): error A2065: Label cannot have segment override
+egachase.asm(1299): error A2071: Forward needs override or FAR
+egachase.asm(1397): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(1439): error A2071: Forward needs override or FAR
+egachase.asm(1631): error A2071: Forward needs override or FAR
+egachase.asm(1669): error A2065: Label cannot have segment override
+egachase.asm(1670): error A2065: Label cannot have segment override
+egachase.asm(1785): error A2065: Label cannot have segment override
+egachase.asm(1879): error A2071: Forward needs override or FAR
+egachase.asm(1881): error A2071: Forward needs override or FAR
+egachase.asm(1896): error A2071: Forward needs override or FAR
+egachase.asm(1898): error A2071: Forward needs override or FAR
+egachase.asm(2007): error A2065: Label cannot have segment override
+egachase.asm(2104): error A2071: Forward needs override or FAR
+egachase.asm(2106): error A2071: Forward needs override or FAR
+egachase.asm(2121): error A2071: Forward needs override or FAR
+egachase.asm(2123): error A2071: Forward needs override or FAR
+egachase.asm(2546): error A2065: Label cannot have segment override
+egachase.asm(3178): error A2071: Forward needs override or FAR
+egachase.asm(3298): error A2071: Forward needs override or FAR
+egachase.asm(3396): error A2071: Forward needs override or FAR
+egachase.asm(4129): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(4337): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(4545): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(4753): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(4961): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(5169): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(5496): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(5553): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(5580): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(5637): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(5664): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(5721): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(5748): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(5805): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(5832): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(5889): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(5916): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(5965): error A2071: Forward needs override or FAR
+egachase.asm(5971): error A2071: Forward needs override or FAR
+egachase.asm(7275): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(7319): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(7354): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(7417): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(7461): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(7496): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(7559): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(7603): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(7840): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(7884): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(7919): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(7982): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(8026): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(8061): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(8124): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(8168): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(8762): error A2071: Forward needs override or FAR
+egachase.asm(8763): error A2071: Forward needs override or FAR
+egachase.asm(8765): error A2071: Forward needs override or FAR
+egachase.asm(8766): error A2071: Forward needs override or FAR
+egachase.asm(8777): error A2071: Forward needs override or FAR
+egachase.asm(8778): error A2071: Forward needs override or FAR
+egachase.asm(8848): error A2071: Forward needs override or FAR
+egachase.asm(8853): error A2071: Forward needs override or FAR
+egachase.asm(8860): error A2071: Forward needs override or FAR
+egachase.asm(9189): error A2071: Forward needs override or FAR
+egachase.asm(9215): error A2071: Forward needs override or FAR
+egachase.asm(9527): error A2071: Forward needs override or FAR
+egachase.asm(9538): error A2071: Forward needs override or FAR
+egachase.asm(9563): error A2071: Forward needs override or FAR
+egachase.asm(9568): error A2071: Forward needs override or FAR
+egachase.asm(9580): error A2071: Forward needs override or FAR
+egachase.asm(9582): error A2071: Forward needs override or FAR
+egachase.asm(9585): error A2071: Forward needs override or FAR
+egachase.asm(9587): error A2071: Forward needs override or FAR
+egachase.asm(9598): error A2071: Forward needs override or FAR
+egachase.asm(9620): error A2071: Forward needs override or FAR
+egachase.asm(9625): error A2071: Forward needs override or FAR
+egachase.asm(9649): error A2071: Forward needs override or FAR
+egachase.asm(9654): error A2071: Forward needs override or FAR
+egachase.asm(9670): error A2071: Forward needs override or FAR
+egachase.asm(9693): error A2071: Forward needs override or FAR
+egachase.asm(9696): error A2071: Forward needs override or FAR
+egachase.asm(9719): error A2071: Forward needs override or FAR
+egachase.asm(9722): error A2071: Forward needs override or FAR
+egachase.asm(9727): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(9936): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(10712): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(11071): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(11375): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(12930): error A2064: Near JMP/CALL to different CS
+egachase.asm(13033): error A2064: Near JMP/CALL to different CS
+egachase.asm(13126): error A2064: Near JMP/CALL to different CS
+egachase.asm(18349): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(18826): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(18854): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(18935): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(18971): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(18994): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(19067): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(19125): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(19161): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(19184): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(19234): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(19258): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(19316): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(19352): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(19375): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(19448): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(19484): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(19507): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(19543): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(19566): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(19674): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(19697): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(19733): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(19756): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(19864): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(19887): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(19923): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(19946): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(20019): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(20055): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(20078): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(20114): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(20137): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(20245): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(20268): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(20304): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(20327): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(20435): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(20458): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(20494): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(20517): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(20557): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(21133): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(21292): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(21301): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(21387): error A2071: Forward needs override or FAR
+egachase.asm(21651): error A2038: Left operand must have segment
+egachase.asm(21734): error A2038: Left operand must have segment
+egachase.asm(21781): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(21813): error A2071: Forward needs override or FAR
+egachase.asm(21853): error A2071: Forward needs override or FAR
+egachase.asm(22366): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(22494): error A2071: Forward needs override or FAR
+egachase.asm(22836): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(23206): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(23365): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(23460): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(23647): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(23723): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(23860): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(26552): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(27200): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(27579): error A2006: Phase error between passes
+egachase.asm(27644): error A2006: Phase error between passes
+egachase.asm(27710): error A2006: Phase error between passes
+egachase.asm(27834): error A2006: Phase error between passes
+egachase.asm(27899): error A2006: Phase error between passes
+egachase.asm(27965): error A2006: Phase error between passes
+egachase.asm(29217): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(29356): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(-32300): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(-30204): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(-30184): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(-30060): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(-30040): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(-29916): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(-29896): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(-29750): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(-29626): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(-29606): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(-29482): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(-29462): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(-29332): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(-27996): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(-27924): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(-27695): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(-27672): error A2071: Forward needs override or FAR
+egachase.asm(-27670): error A2071: Forward needs override or FAR
+egachase.asm(-27666): error A2038: Left operand must have segment
+egachase.asm(-27584): error A2071: Forward needs override or FAR
+egachase.asm(-27581): error A2071: Forward needs override or FAR
+egachase.asm(-27578): error A2071: Forward needs override or FAR
+egachase.asm(-27575): error A2071: Forward needs override or FAR
+egachase.asm(-27127): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(-22322): error A2071: Forward needs override or FAR
+egachase.asm(-22131): error A2071: Forward needs override or FAR
+egachase.asm(-22119): error A2071: Forward needs override or FAR
+egachase.asm(-22110): error A2071: Forward needs override or FAR
+egachase.asm(-20543): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(-20145): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(-20124): error A2065: Label cannot have segment override
+egachase.asm(-20120): error A2105: Expected: instruction or directive
+egachase.asm(-18662): error A2071: Forward needs override or FAR
+egachase.asm(-18533): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(-18458): error A2065: Label cannot have segment override
+egachase.asm(-18328): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(-18239): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(-16835): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(-13256): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(-11157): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(-11078): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(-11061): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(-11056): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(-11012): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(-8490): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(-8205): error A2064: Near JMP/CALL to different CS
+egachase.asm(-8190): error A2064: Near JMP/CALL to different CS
+egachase.asm(-7589): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(2299): error A2070: Cannot use EVEN or ALIGN with byte alignment
+egachase.asm(-10469): error A2024: Segment parameters are changed
+
+  51412 + 229564 Bytes symbol space free
+
+      0 Warning Errors
+    231 Severe  Errors
